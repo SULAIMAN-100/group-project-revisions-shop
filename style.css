@@ -3,7 +3,7 @@ body,
 html {
   background: #202c20;
   font-family: "PT Sans", sans-serif;
-  font-size: 16px;
+  font-size: 20px;
   line-height: 1.5em;
 }
 
@@ -64,7 +64,7 @@ html {
   padding: 1rem;
   border-radius: 2px;
   background: #fff;
-  box-shadow: 0 2px 2px rgba(0, 0, 0, 0.1);
+  box-shadow: 0 2px 2px rgba(102, 100, 100, 0.1);
 }
 
 .item__price {
@@ -81,9 +81,10 @@ html {
 .item__content p {
   margin-top: 0;
 }
-
+/*This is the Special Sale  header on the middle sale changed font size to 24px and changed font color to fc2727 peter comer  */
 .item__discount {
-  color: #7fcf80;
+  font-size: 24px;
+  color: #fc2727;
 }
 
 /* Footer */
